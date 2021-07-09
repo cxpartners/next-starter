@@ -35,9 +35,9 @@ Add your original repository as an upstream remote in your forked repository. Do
 4. Update your fork
 Update your fork with all the changes from your original repository using `git pull`.
 
-`git pull upstream master`
+`git pull upstream main`
 
 5. Push
 When you are done, simply push your new fork back into GitHub.
 
-`git push origin master`
+`git push origin main`
